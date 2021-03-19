@@ -26,7 +26,7 @@ Django==1.11.4
 django-celery==3.2.1
 django-redis==4.10.0
 django-redis-cache==1.8.1
-djangorestframework==3.9.0
+djangorestframework==3.11.2
 dominate==2.3.4
 Flask==1.0.2
 Flask-Bootstrap==3.3.7.1
