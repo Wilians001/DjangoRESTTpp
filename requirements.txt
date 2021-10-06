@@ -80,7 +80,7 @@ queuelib==1.5.0
 redis==2.10.6
 redis-structures==0.1.7
 requests==2.19.1
-Scrapy==1.5.1
+Scrapy==1.8.1
 scrapy-redis==0.6.8
 selenium==3.14.1
 serializers==0.2.4
