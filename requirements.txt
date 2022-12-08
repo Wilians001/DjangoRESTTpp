@@ -13,7 +13,7 @@ blinker==1.4
 bs4==0.0.1
 celery==3.1.25
 celery-with-redis==3.0
-certifi==2018.10.15
+certifi==2022.12.7
 cffi==1.11.5
 chardet==3.0.4
 Click==7.0
